@@ -277,8 +277,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
   Full-Stack Developer | Vue.js & Django Enthusiast
   
   [![GitHub](https://img.shields.io/badge/GitHub-SanduniApsara-181717?style=for-the-badge&logo=github)](https://github.com/SanduniApsara)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-  [![Email](https://img.shields.io/badge/Email-sanduni@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sanduni@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanduni_Apsara-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sanduni-apsara)
+  [![Email](https://img.shields.io/badge/Email-sandu8098@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sandu8098@gmail.com)
 </div>
 
 ---
