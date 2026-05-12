@@ -217,7 +217,12 @@ GET    /api/auth/profile/          User profile
 
 ## 🎨 Screenshots
 
-> Add your screenshots here after running the project!
+<img width="1920" height="916" alt="homepage" src="https://github.com/user-attachments/assets/03911099-ebb8-4d92-b92f-ab6c9abd65ca" />
+<img width="1901" height="891" alt="products" src="https://github.com/user-attachments/assets/aff56027-6fe0-4a41-b7b5-36a05db67dc7" />
+<img width="1901" height="897" alt="product_description" src="https://github.com/user-attachments/assets/f1236444-66ba-4e8d-9594-4b1984e4b8d6" />
+<img width="1920" height="888" alt="checkout" src="https://github.com/user-attachments/assets/84d08d93-493e-4431-9854-c0e395778213" />
+<img width="1886" height="804" alt="loging" src="https://github.com/user-attachments/assets/241f3001-edb3-4b01-b48c-f2f139af2058" />
+<img width="1890" height="868" alt="admin View" src="https://github.com/user-attachments/assets/95702734-8e89-4481-88a8-6185d11b3de4" />
 
 ---
 
@@ -262,6 +267,20 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👨‍💻 Author
+## 👩‍💻 Author
 
-Built with ❤️ for real-world use. Star ⭐ the repo if you find it useful!
+<div align="center">
+  <img src="https://github.com/SanduniApsara.png" width="100px" style="border-radius:50%"/>
+  
+  ### Sanduni Apsara
+  
+  Full-Stack Developer | Vue.js & Django Enthusiast
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-SanduniApsara-181717?style=for-the-badge&logo=github)](https://github.com/SanduniApsara)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+  [![Email](https://img.shields.io/badge/Email-sanduni@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:sanduni@gmail.com)
+</div>
+
+---
+
+Built with ❤️ by Sanduni Apsara. If you found this helpful, please ⭐ star the repo!
