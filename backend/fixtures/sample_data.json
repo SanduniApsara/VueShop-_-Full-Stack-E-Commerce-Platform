@@ -1,0 +1,130 @@
+[
+  {
+    "model": "shop.category",
+    "pk": 1,
+    "fields": {
+      "name": "Electronics",
+      "slug": "electronics",
+      "description": "Latest gadgets and tech",
+      "is_active": true,
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "shop.category",
+    "pk": 2,
+    "fields": {
+      "name": "Clothing",
+      "slug": "clothing",
+      "description": "Fashion for everyone",
+      "is_active": true,
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "shop.category",
+    "pk": 3,
+    "fields": {
+      "name": "Home & Garden",
+      "slug": "home-garden",
+      "description": "Everything for your home",
+      "is_active": true,
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "shop.category",
+    "pk": 4,
+    "fields": {
+      "name": "Sports",
+      "slug": "sports",
+      "description": "Sports and outdoor gear",
+      "is_active": true,
+      "created_at": "2024-01-01T00:00:00Z"
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 1,
+    "fields": {
+      "category": 1,
+      "name": "Premium Wireless Headphones",
+      "slug": "premium-wireless-headphones",
+      "description": "Experience crystal-clear sound with our premium wireless headphones. Features active noise cancellation, 30-hour battery life, and premium comfort ear cushions.",
+      "short_description": "Crystal-clear sound with ANC and 30hr battery",
+      "price": "89.99",
+      "compare_price": "129.99",
+      "stock": 50,
+      "sku": "ELEC-001",
+      "image": "",
+      "is_featured": true,
+      "is_active": true,
+      "created_at": "2024-01-15T00:00:00Z",
+      "updated_at": "2024-01-15T00:00:00Z",
+      "tags": []
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 2,
+    "fields": {
+      "category": 1,
+      "name": "Smart Watch Pro",
+      "slug": "smart-watch-pro",
+      "description": "Track your fitness, receive notifications, and monitor your health with the Smart Watch Pro. Water-resistant up to 50m.",
+      "short_description": "Advanced fitness tracking with health monitoring",
+      "price": "149.99",
+      "compare_price": "199.99",
+      "stock": 30,
+      "sku": "ELEC-002",
+      "image": "",
+      "is_featured": true,
+      "is_active": true,
+      "created_at": "2024-01-16T00:00:00Z",
+      "updated_at": "2024-01-16T00:00:00Z",
+      "tags": []
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 3,
+    "fields": {
+      "category": 2,
+      "name": "Classic Cotton T-Shirt",
+      "slug": "classic-cotton-t-shirt",
+      "description": "Made from 100% organic cotton, this classic tee offers everyday comfort with a modern fit.",
+      "short_description": "100% organic cotton everyday comfort",
+      "price": "24.99",
+      "compare_price": null,
+      "stock": 100,
+      "sku": "CLTH-001",
+      "image": "",
+      "is_featured": true,
+      "is_active": true,
+      "created_at": "2024-01-17T00:00:00Z",
+      "updated_at": "2024-01-17T00:00:00Z",
+      "tags": []
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 4,
+    "fields": {
+      "category": 3,
+      "name": "Ergonomic Office Chair",
+      "slug": "ergonomic-office-chair",
+      "description": "Work in comfort all day with our ergonomic office chair. Adjustable lumbar support and armrests.",
+      "short_description": "All-day comfort with lumbar support",
+      "price": "299.99",
+      "compare_price": "399.99",
+      "stock": 15,
+      "sku": "HOME-001",
+      "image": "",
+      "is_featured": true,
+      "is_active": true,
+      "created_at": "2024-01-18T00:00:00Z",
+      "updated_at": "2024-01-18T00:00:00Z",
+      "tags": []
+    }
+  }
+]
